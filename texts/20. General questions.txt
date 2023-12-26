@@ -1,0 +1,338 @@
+And you?
+Nice to meet you! What about you?
+I don't really care, what about you?
+How about you? What do you think?
+Anything else?
+Is there anything else I can assist you with today?
+No, thank you. Is there anything else you need?
+Is there anything else you would like to add to your order?
+Are they the same?
+I'm comparing these two options. Are they the same?
+No, sorry. Are they the same? I am confused.
+I'm comparing these two products. Are they the same?
+Are you afraid?
+No need to worry. Are you afraid of trying something new?
+No, I'm not afraid. I'm confident in my abilities.
+Are you afraid of heights?
+Are you going to attend their wedding?
+Are you going to attend their wedding next week?
+Are you not going to attend their wedding?
+I heard they are getting married. Are you going to attend their wedding?
+Are you married?
+Excuse me, may I ask if you are married?
+Are you okay?
+I just saw you trip. Are you okay?
+Are you feeling alright? You don't look well.
+Excuse me, I saw you trip. Are you okay?
+Are you sick?
+You look a bit pale. Are you feeling okay?
+No, thank you. I do not want to catch your illness.
+Excuse me, but you don't look well. Are you sick?
+Behind the bank.
+Excuse me, can you please tell me where the bank is located?
+Can I borrow some money?
+I want to buy lunch, but I don't have enough. Can I borrow some money?
+No, sorry. I cannot lend you any money right now.
+Can I have the bill please?
+Excuse me, can I have the bill please? I'm ready to pay.
+Can you call back later?
+Sorry, I'm in a meeting right now. Can you call back later?
+Sorry, I'm currently busy. Can you call back later?
+I'm in a meeting right now. Can you call back later?
+Can you call me back later?
+Sorry, I'm unable to talk right now. Can you call me back later?
+Sorry, I'm busy right now. Can you call me back later?
+Hello, I'm currently in a meeting. Can you call me back later?
+Can you carry this for me?
+This box is really heavy. Can you carry this for me?
+Sorry, but I can't help you with carrying this for me.
+I have injured my arm and cannot lift anything heavy. Can you carry this for me?
+Can you fix this?
+I have tried to fix it myself, but I failed.
+Can you fix this? It's not working properly.
+Can you give me an example?
+I'm new to this concept. Can you give me an example?
+No, I do not understand. Can you give me an example?
+I am not sure how to do this task. Can you give me an example?
+Can you speak louder please?
+Excuse me, I'm having trouble hearing you. Can you speak louder please?
+I'm sorry, I can't hear you very well. Can you speak louder please?
+Excuse me, can you speak louder please? I didn't quite catch that.
+Can you swim?
+I love going to the beach during the summer. Can you swim?
+Does he like the school?
+I've heard great things about the school. Does he like it?
+I'm not sure. Does he like the school? He seems unsure.
+I'm considering enrolling my son in that school. Does he like the school?
+Do you accept U.S. Dollars?
+I would like to pay with U.S. Dollars. Do you accept them?
+Sorry, but I'm unable to provide you with the information you're looking for.
+Excuse me, I'm not sure if you accept U.S. Dollars.
+Do you have a girlfriend?
+Hey, I was just curious, do you have a girlfriend?
+No, I'm sorry if that question makes you uncomfortable.
+Do you have a girlfriend? I saw you with a girl yesterday.
+Do you have an appointment?
+Excuse me, do you have an appointment for your visit?
+No, I'm sorry. I do not have an appointment.
+Hello, I'm here for my appointment. Do you have an appointment?
+Do you have a problem?
+Do you have any questions or concerns about this topic?
+Excuse me, but do you have a problem with this?
+Excuse me, do you have a problem with my request?
+Do you hear that?
+Do you hear that beautiful music playing in the background?
+Do you not hear that? It's so loud.
+Do you hear that noise coming from outside the window?
+Do you know how to get to the Marriott Hotel?
+Excuse me, can you help me? I'm trying to find the Marriott Hotel.
+Excuse me, but do you know how to get to the Marriott Hotel? I am lost.
+Excuse me, can you help me with directions to the Marriott Hotel?
+Do you know what this means?
+Excuse me, do you know what this word means?
+Sorry, but I have no idea what this means.
+I've never seen this symbol before. Do you know what this means?
+Do you know where I can get a taxi?
+Excuse me, do you know where I can get a taxi?
+Excuse me, I'm new here. Do you know where I can get a taxi?
+Excuse me, do you know where I can get a taxi?
+Do you know where my glasses are?
+Can someone help me find my glasses? I can't see without them.
+No, you don't know where my glasses are.
+Excuse me, do you know where my glasses are? I can't find them.
+Do you like your co-workers?
+No, I don't really get along with my co-workers.
+I'm curious, do you like your co-workers at your new job?
+Do you need anything else?
+Excuse me, sir. Do you need anything else?
+Is there anything else I can assist you with today?
+Do you understand?
+Hi, can you please explain that concept to me again? I still don't get it.
+Can you explain that again? I do not understand.
+Excuse me, can you please repeat that?
+Give me the pen.
+I need to write something. Please give me the pen.
+Can you lend me your pen for a moment?
+Excuse me, could you please give me the pen?
+How do you know?
+How do you know the answer to that question?
+I don't understand. How do you know? Can you explain?
+I didn't see that happen. How do you know?
+How is she?
+I haven't seen her in a while. How is she?
+I haven't heard from her in a while. How is she?
+I haven't seen her in a while. How is she?
+How long is it?
+Excuse me, can you please tell me how long it is?
+I do not know how long it is. Can you measure it?
+I'm not sure how long this movie is. Can you check?
+How many?
+Can you tell me how many people are attending the event?
+I do not know how many there are.
+Please tell me the quantity of items you have.
+How much is it?
+How much is it? I want to buy this item.
+I'm sorry, but I don't know how much it costs.
+Excuse me, can you please tell me how much it is?
+I have a lot of things to do.
+Today is a busy day for me. I have a lot of things to do.
+No, sorry. I have a lot of things to do.
+I am feeling overwhelmed today, I have a lot of things to do.
+In 30 minutes.
+I will finish this task in 30 minutes. I am confident.
+I'm sorry, but I cannot meet you in 30 minutes.
+What time are you planning to meet up for lunch?
+Is anyone else coming?
+Is anyone else coming to the party tonight?
+Is everything ok?
+Hey, I noticed you seem a little down today. Is everything ok?
+I noticed you seem upset. Is everything ok?
+Is it cold outside?
+I want to go for a walk. Is it cold outside?
+I don't know if I should wear a jacket. Is it cold outside?
+Is it far from here?
+Excuse me, can you please tell me if it is far from here?
+Is it far from here? I'm not sure if I want to walk that distance.
+Is it hot?
+Is it hot outside? I want to wear something light.
+I can't tell if it's hot outside. Can someone check?
+Is it raining?
+I want to know if I need an umbrella. Is it raining?
+I heard thunder earlier. Is it raining now?
+Is there anything cheaper?
+I want to buy something, but I am on a budget. Is there anything cheaper?
+I am on a tight budget. Is there anything cheaper?
+Excuse me, I am on a tight budget. Is there anything cheaper?
+Is your son here?
+Excuse me, sir. Is your son here? I have a delivery for him.
+Excuse me, but is your son here? I need to speak with him.
+Excuse me, but is your son here? I have a question for him.
+Should I wait?
+I'm not sure if the bus is coming soon. Should I wait?
+No, I don't know if it's worth waiting for.
+I'm not sure if the bus is running late. Should I wait?
+The big one or the small one?
+I'm not sure which size would be better. The big one or the small one?
+Sorry, but I'm not sure which one you're referring to.
+Could you please tell me which one you prefer, the big one or the small one?
+The cars are American.
+I love American cars. I'm proud to support American manufacturing.
+No, those cars are not American. They are imported.
+Yesterday, I saw a line of parked cars. The cars are American.
+Were there any problems?
+Did you encounter any difficulties or issues during the process?
+No, everything went smoothly. Were there any problems?
+Were you at the library last night?
+Were you at the library last night studying for your exams?
+No, were you at the library last night?
+What are you doing?
+Hey, how's it going? What are you doing right now?
+What are you doing? I don't understand why you're acting that way.
+Hey, I haven't seen you in a while. What are you doing these days?
+What are you thinking about?
+I'm interested in hearing your thoughts on this topic.
+I'm curious, what thoughts are going through your mind right now?
+What are you two talking about?
+We've been discussing our favorite movies lately.
+I have no idea what you two are talking about.
+I overheard your conversation. What are you two talking about?
+What did you do last night?
+I forgot to do my homework last night.
+Hey, I haven't seen you all day. What did you do last night?
+What did you do yesterday?
+Hey, it's great to see you! How was your day yesterday? What did you do?
+Hey, how are you? I haven't seen you in a while. What did you do yesterday?
+What did you think?
+After watching that movie, what did you think?
+What did you think about the movie we watched last night?
+What do they study?
+I don't know what subjects they study in school.
+I am interested in knowing what subjects they study at school.
+What do you have?
+I'm curious, what type of products do you currently have?
+I'm looking for something to eat. What do you have?
+What do you think?
+I just painted my room. What do you think?
+I'm not sure about this decision, what do you think?
+What happened?
+Hey, I just heard some commotion. What happened over there?
+I have no idea what just happened. Can someone explain?
+I heard a loud noise outside. What happened?
+What is it?
+Excuse me, can you please tell me what this is?
+Excuse me, I don't understand. What is it that you're referring to?
+Excuse me, can you please tell me what this is?
+What is that?
+Excuse me, can you please tell me what that is?
+I have no idea what that is. Can you explain it?
+Excuse me, can you please tell me what that is?
+What should I wear?
+I have a job interview tomorrow. What should I wear?
+I have no idea what to wear for this occasion.
+What's in it?
+Could you please tell me what is inside? I'm curious.
+I'm not sure what's inside. Can you please tell me?
+I'm curious about the contents of that. What's in it?
+What's the temperature?
+I want to know what the temperature is outside right now.
+I'm sorry, but I don't know what the temperature is.
+I'm not sure if I should wear a jacket or not.
+What's this?
+Excuse me, can you please explain what this is?
+I have no idea what this is. Can someone explain?
+I haven't seen this before. What's this?
+What's up?
+What's up? How has your day been so far?
+Hey, how's it going? Just checking in on you.
+Where are you from?
+Where are you from? I'm curious about your cultural background.
+I'm sorry, I don't know where you're from. Could you tell me?
+Excuse me, may I ask where are you from?
+Where can I rent a car?
+I am going on a road trip. Where can I rent a car?
+I don't know my way around. Where can I rent a car?
+Excuse me, do you know where I can rent a car?
+Where did it happen?
+I want to know the location of the event. Where did it happen?
+I have no idea where it happened. Can you tell me?
+I can't remember where it happened. Could you please remind me?
+Where did you learn it?
+That's impressive! Where did you learn it?
+I have no idea. Where did you learn it?
+I'm impressed with your skills. Where did you learn it?
+Where is he?
+I'm looking for my friend. Where is he?
+I have been looking for him everywhere, but I can't find him.
+I am trying to find my friend. Where is he?
+Where is he from?
+I'm curious about his background. Where is he from?
+I have no idea. Where is he from?
+I met a new guy at the party. Where is he from?
+Which is better, the spaghetti or chicken salad?
+I'm trying to decide between the spaghetti or chicken salad. Could you please help me?
+I don't know what to order. Which is better, the spaghetti or chicken salad?
+I'm not sure what to order. Which is better, the spaghetti or chicken salad?
+Which one do you want?
+We have a variety of options. Which one do you want?
+I do not know which one you are referring to.
+We have a few options available. Which one do you want?
+Which one is cheaper?
+I'm on a budget. Can you tell me which one is cheaper?
+I'm trying to save money. Which one is cheaper?
+I'm trying to decide between a few items. Which one is cheaper?
+Which one is the best?
+I'm trying to decide between these options. Which one is the best?
+I'm not sure which one is the best. Can you help me decide?
+I need to choose between these options. Which one is the best?
+Which school does he go to?
+I heard he recently transferred. Which school does he go to now?
+I don't know. Can you tell me which school he goes to?
+I heard he started a new school this year.
+Who are they?
+I haven't met them before. Can you introduce them to me?
+I have never seen them before. Who are they?
+I haven't seen them before. Who are they?
+Who are you looking for?
+Excuse me, can you tell me who you are looking for?
+Excuse me, but I'm not sure who you are looking for.
+Excuse me, can I help you? Who are you looking for?
+Who is it?
+Excuse me, may I ask who is calling, please?
+I'm not sure who is calling. Can someone please check?
+I heard the phone ringing, who is it?
+Who's calling?
+I just heard my phone ring. Who's calling?
+I don't recognize the number. Who's calling?
+I'm sorry, may I ask who's calling?
+Who's that man over there?
+Can you recognize who's that man over there?
+I have never seen him before. Who's that man over there?
+I don't recognize him. Who's that man over there?
+Who taught you that?
+I am amazed at your knowledge! Who taught you that?
+Who taught you that? I don't understand how you know that.
+Who taught you that? I've never seen that technique before.
+Why did you say that?
+I didn't understand why you said that.
+I don't understand. Can you explain why you said that?
+I don't understand why you made that comment.
+Will you pass me the salt please?
+Excuse me, could you please pass me the salt?
+Will you put this in the car for me?
+Excuse me, could you please help me put this in the car?
+I cannot lift this heavy box. Will you put this in the car for me?
+I have a lot of things to carry. Will you put this in the car for me?
+Would you ask him to call me back please?
+I really need to speak with him. Would you ask him to call me back please?
+I don't have his contact information. Would you ask him to call me back please?
+I need to speak with him. Could you ask him to call me back please?
+Yes.
+Yes, I would love to learn something new.
+No, I don't know the answer to that question.
+Yes, I'm available to help you with any questions you have.
+You have a very nice car.
+You have a very nice car. I really like the color.
+Wow, that's a beautiful car you have. It must be expensive.
+You look like my sister.
+You look like my sister. She has the same hairstyle.
+You have the same hair color and facial features as my sister.

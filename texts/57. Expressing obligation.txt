@@ -1,0 +1,77 @@
+Do I have to do it now?
+I have a lot of other tasks to complete. Do I have to do it now?
+I am very busy right now. Do I have to do it now?
+I have a deadline approaching. Do I have to do it now?
+Do I need to leave her a message?
+I want to talk to her, but I'm not sure if I should leave a message.
+No, I don't need to leave her a message. She already knows.
+I'm not sure if it's necessary, but do I need to leave her a message?
+Must I accept the request?
+Must I accept the request? I am not sure if it's necessary.
+No, I am not obligated to accept the request.
+I am not sure if I am obligated to accept the request.
+I don’t have to attend the meeting, do I?
+I already have a lot of work to do today. I don’t have to attend the meeting, do I?
+I really have a lot of work to catch up on. I don’t have to attend the meeting, do I?
+I already have a lot on my plate today. I don’t have to attend the meeting, do I?
+Do you have to get to the office so early?
+No, you don't have to get to the office so early.
+Do you have to get to the office so early every day?
+Are you expected to finish the job by tomorrow?
+Yes, you are expected to finish the job by tomorrow.
+No, you are not obligated to finish the job by tomorrow.
+ It is your responsibility to complete the task by tomorrow.
+Must you work so hard?
+You are already dedicated enough, must you work so hard?
+I understand that you are dedicated, but must you work so hard?
+You've been working non-stop for several days. Must you work so hard?
+Is it necessary for me to go with them?
+Is it necessary for me to go with them to the meeting?
+Is it absolutely necessary for me to go with them?
+Is it necessary for me to go with them to the meeting?
+I must tell them the true.
+It is my responsibility to tell them the true.
+I am obligated to be honest with them.
+I must tell them the true. It's important that they know.
+I must do everything I can to help you.
+I must do everything I can to help you achieve success.
+In light of the situation, I absolutely must do everything I can to help you.
+I am obligated to do everything I can to help you.
+I have to send the report today.
+My boss expects me to send the report today.
+My boss told me that I have to send the report today.
+I have to be there by tomorrow.
+My boss told me that I have to be there by tomorrow.
+I cannot postpone it any further. I have to be there by tomorrow.
+I have a meeting and I have to be there by tomorrow.
+I have to go now.
+I have to go now because I have a meeting.
+I'm sorry, but I have to go now. I can't stay any longer.
+Sorry, but I really have to go now. I have a prior commitment.
+I’ll have to pick her up from the airport.
+I’ll have to pick her up from the airport because she can't find transportation.
+Unfortunately, I am the only one available to pick her up from the airport.
+My sister is arriving today, so I'll have to pick her up from the airport.
+It is necessary that you follow this guideline.
+For the success of the project, it is necessary that you follow this guideline diligently.
+It is important that you follow this guideline, but it is not mandatory.
+It is necessary that you follow this guideline to ensure success.
+I can’t refuse to do that.
+I understand it's my duty, so I can't refuse to do that.
+I am obligated to do that and I cannot refuse.
+I really don't want to, but I can't refuse to do that.
+I can’t avoid it.
+I have to go to the meeting. I can't avoid it.
+I really have to go to the dentist, I can't avoid it.
+I have to do it, there's no way around it.
+It is my responsibility to clear the table.
+As the host, it is my responsibility to clear the table.
+No one else is available, so it is my responsibility to clear the table.
+As the host, it is my responsibility to clear the table after dinner.
+It’s my duty to do it.
+As the team leader, it's my duty to ensure everyone completes their tasks.
+As much as I dislike it, it’s my duty to do it.
+As it is assigned to me, it's my duty to do it.
+I have no other choice.
+I have no other choice but to complete this task.
+I have no other choice but to finish this project tonight.

@@ -1,0 +1,253 @@
+Can I see your passport please?
+Hello, this is the airport security desk. Can I see your passport please?
+I need to verify your identity before we proceed. Can I see your passport please?
+Can I take a message?
+Sure, I'll be happy to take a message for you.
+Sorry, she's not available right now. Can I take a message?
+Hi, this is Sarah. Can I take a message for you?
+Can I try it on?
+Sorry, I can't decide without trying it on first. Can I try it on?
+No, sorry. I cannot try it on.
+I like this dress. Can I try it on before purchasing?
+Can we sit over there?
+Excuse me, can we sit over there? It looks more comfortable.
+Can we sit over there? It's too crowded here.
+Excuse me, can we sit over there? There are no available seats here.
+Did you come with your family?
+Did you not come with your family?
+Did you come with your family for the family gathering?
+Do you think it's possible?
+Do you think it's possible for us to achieve this goal?
+No, I don't think it's possible.
+I'm not sure if this can be done. Do you think it's possible?
+Here's my number.
+Can you please call me tomorrow? Here's my number.
+Sorry, I don't feel comfortable sharing my personal information.
+Here's my number. Call me if you need anything.
+He's not in right now.
+He's not in right now, but he'll be back soon.
+I'm sorry, but he's not in right now. Can I take a message?
+Sorry, he's not available at the moment. Can I take a message?
+Hi, is Mrs. Smith there, please?
+Hi, is Mrs. Smith there, please? I am calling to congratulate her on her promotion.
+Hi, is Mrs. Smith there, please? I need to speak with her.
+I'd like some water too, please.
+I'm feeling a bit thirsty. I'd like some water too, please.
+I don't want any coffee. Can you just bring some water?
+I am feeling thirsty. Can I have some water too, please?
+I'd like to buy a bottle of water, please.
+Hello, I'm feeling quite thirsty. I'd like to buy a bottle of water, please.
+I'm feeling really thirsty. I'd like to buy a bottle of water, please.
+I'd like to buy something.
+Hello, I'd like to buy something for my friend's birthday.
+I'm sorry, but I don't want to buy anything right now.
+Hello, I'm interested in purchasing an item.
+I'd like to go to the store.
+I need to buy some groceries. I'd like to go to the store.
+I'm sorry, I can't go to the store right now.
+I'd like to go to the store. Can you give me directions?
+I'd like to rent a car.
+Hello, I'd like to rent a car for a weekend trip.
+No, I don't need to rent a car. I have my own.
+I'm going on a road trip next weekend. I'd like to rent a car.
+I'd like to send a fax.
+I'd like to send a fax. Can you please assist me?
+I'm sorry, but we don't have a fax machine available.
+I'd like to send this to America.
+I'd like to send this package to America. It's a gift for my friend.
+I'm sorry, but I can't send this to America.
+I need to send this package to America. Can you help?
+I'd like to speak to Mr. Smith please.
+Hello, I'd like to speak to Mr. Smith please. He's expecting my call.
+I'm sorry, but Mr. Smith is not available at the moment.
+Hello, I'm calling to speak with Mr. Smith.
+I have three children, two girls and one boy.
+Yesterday, I had a great phone call with my sister.
+I have three children, two girls and one boy. They are all in school.
+I'll be right back.
+I just need to grab something from the next room.
+Sorry, I can't talk right now. I'll be right back.
+Sorry, I have to step away for a moment. I'll be right back.
+I'll call back later.
+Sure, I'll call back later. I'm in the middle of something.
+Sorry, I'm busy right now. I'll call back later.
+I'm in a meeting right now. I'll call back later.
+I'll call you on Friday.
+I'm looking forward to our call on Friday.
+I won't call you on Friday. I'll call you another day.
+I'll call you on Friday to discuss the project details.
+I'll teach you.
+Sure, I can help you learn how to do that.
+No, I'm sorry, I won't be able to teach you.
+Sure, I have experience in teaching and can assist you with that.
+I'm ok.
+No need to worry, I'm ok and everything is fine.
+I'm ok, thanks. Nothing urgent to discuss at the moment.
+I need some tissues.
+I have a cold and I need some tissues.
+I'm sorry, but I don't have any tissues right now.
+I have a runny nose. I need some tissues.
+Is there an English speaking guide?
+Excuse me, I'm looking for an English speaking guide, please.
+Sorry, but I'm afraid there is no English speaking guide available.
+Hello, I am calling to inquire if there is an English speaking guide available?
+I want to give you a gift.
+I found something that I think you'll really like.
+I want to give you a gift for your birthday.
+Male or female?
+Can you please provide your gender? We need it for our records.
+Hello, I'm calling to schedule a haircut appointment.
+My cell phone doesn't have good reception.
+I need to make an important phone call, but my cell phone doesn't have good reception.
+I can't hear you well because my cell phone doesn't have good reception.
+I'm sorry, but I can't make any calls right now.
+My cell phone doesn't work.
+Oh no, my cell phone doesn't work. I can't make any calls.
+I tried to make a phone call, but my cell phone doesn't work.
+I need to call someone, but my cell phone doesn't work.
+Please take off your shoes.
+Please take off your shoes before entering the house to keep it clean.
+Sorry, but we have a strict no shoes policy inside.
+Please take off your shoes before entering the house.
+Sorry, I think I have the wrong number.
+Hello? Sorry, I think I have the wrong number. I was trying to reach my friend.
+Sorry, I think I have the wrong number. I was trying to reach someone else.
+Hello, this is John. Sorry, I think I have the wrong number.
+What is the area code?
+I need to call my friend in a different state. What is the area code?
+I'm sorry, I don't know the area code for that city.
+I need to make a phone call to that city. What is the area code?
+What's the name of the company you work for?
+Hi! I hope you're having a great day. I was wondering, what's the name of the company you work for?
+I'm sorry, but I can't provide the information you're looking for.
+Hello, I'm calling from the recruitment department. What's the name of the company you work for?
+What's wrong?
+Hey, I sensed that something might be bothering you. What's wrong?
+Why are you upset? What's wrong with you?
+I noticed that you seem upset. What's wrong?
+What's your address?
+I would love to send you a gift. What's your address?
+I'm sorry, but I don't have your address on file.
+Can you please provide me with your address for the delivery?
+Where can I find a hospital?
+I need to find a hospital. Can you please tell me where?
+I am lost and in need of urgent medical assistance.
+Excuse me, I'm looking for a hospital. Can you help me?
+Where's the closest restaurant?
+I'm in the mood for some good food. Where's the closest restaurant?
+I'm starving, but I have no idea where the closest restaurant is.
+I'm hungry and I need to find a place to eat. Where's the closest restaurant?
+Where's the pharmacy?
+Excuse me, could you please tell me where the pharmacy is?
+Sorry, I don't know. Where's the pharmacy?
+I have a headache and need to find the pharmacy.
+Who are you?
+Hello! It's nice to hear your voice. May I ask who you are?
+I'm sorry, but I don't recognize your voice. Who are you?
+Hello? Who are you? I don't recognize this number.
+Who is that?
+I received a phone call, but I do not recognize the number.
+I do not know who is calling. Can you check for me?
+I do not recognize the number on the caller ID.
+Who would you like to speak to?
+Hello, may I ask who would you like to speak to?
+I'm sorry, but they are not available right now.
+Hello, this is Jane from ABC Company. Who would you like to speak to?
+Will you take me home?
+I'm really tired and would appreciate if you could take me home.
+I'm sorry, but I don't need a ride home right now.
+I'm currently at the office and need a ride home.
+Would you like water or milk?
+No, thank you. I do not want water or milk.
+I can offer you a beverage. Would you like water or milk?
+Can I speak to John, please?
+I need to talk to John about our upcoming meeting.
+I'm sorry, but John is not available at the moment.
+I need to talk to John. Can I speak to him, please?
+I’d like to speak to John.
+Hi, could I please speak to John? It's regarding a project we're working on.
+Sorry, but John is not available at the moment.
+Hello, may I please speak to John? It's urgent.
+I’ll put you through. Hold the line, please.
+Hello, this is Mary from ABC Company. I’ll put you through. Hold the line, please.
+I'm sorry, but I can't connect you to that person right now.
+I’ll put you through to the customer service department. Hold the line, please.
+I’ll connect you now.
+I’m sorry, but I won’t be able to connect you now.
+I’m sorry, he’s on another call
+I’m sorry, he’s on another call. He will be available soon.
+I'm sorry, he's on another call right now. Can you call back later?
+I’m sorry, he’s on another call. Can I take a message?
+I’m sorry, he’s not available at the moment.
+I’m sorry, he’s not available at the moment. Can I take a message for you?
+I apologize, but he is not available to speak right now.
+I’m sorry, he’s not available at the moment. He's in a meeting.
+Please call back later.
+Please call back later. I am currently in a meeting.
+I'm sorry, but the person you're trying to reach is unavailable at the moment. Please call back later.
+I'm sorry, but the person you are calling is currently busy. Please call back later.
+Could you ask him to call me?
+Yes, of course! Could you please ask him to call me?
+Could you ask him to call me? I have important information to discuss.
+Could you ask him to call me? I need to discuss something important.
+Would you like to leave a message?
+Sure, I can take a message for you if needed.
+I'm sorry, but they're not available right now. Would you like to leave a message?
+I'm sorry, but he's currently unavailable. Would you like to leave a message?
+Who’s speaking?
+Hello, this is John. Who's speaking?
+I'm sorry, but I don't know who you are.
+Hello, may I ask who's speaking? I didn't catch your name.
+Sorry, but I can't help with that request.
+Hello, may I ask who is calling, please?
+Could I ask who’s calling?
+Hello, this is John speaking. Could I ask who's calling?
+I'm sorry, but I can't disclose that information. Could I ask who's calling?
+Could I ask who’s calling? I don't recognize the number.
+Can I have your name, please?
+Hello, may I have your name, please? I would like to address you correctly.
+I am sorry, I do not recognize your voice. Can I have your name, please?
+Who am I talking to?
+Hello, may I ask who am I talking to?
+It’s Mary speaking.
+Hello, this is Mary speaking. How can I assist you today?
+This is not Mary speaking. Can I take a message?
+Hello, this is Mary speaking. How can I assist you?
+Is it convenient to talk at the moment?
+Is it convenient to talk at the moment? I have some good news to share with you.
+I'm sorry, but it is not convenient for me to talk at the moment.
+Sorry, you must have the wrong number.
+Sorry, you must have the wrong number. I'm afraid you've dialed the wrong person.
+I'm sorry, but you have dialed the wrong number.
+Sorry, you must have the wrong number. I don't know who you're looking for.
+Sorry. I think you’ve dialed the wrong number.
+Sorry. I think you’ve dialed the wrong number. I'm not Steve.
+Hang on for a moment.
+Hang on for a moment. Let me transfer your call to someone who can help you.
+Sorry, I can't talk right now. Hang on for a moment.
+Hang on for a moment. Let me transfer your call to another department.
+I’m about to run out of credit.
+I’m about to run out of credit. Can you please top up my phone?
+I can't make any more calls because I'm about to run out of credit.
+Hello, I need to top up my phone as I'm about to run out of credit.
+What number can I reach you at?
+I'm sorry, but I don't want to share that information.
+Who do you want to talk to?
+I'm sorry, they're not available at the moment. Who do you want to talk to?
+I'm sorry, but they're not available right now.
+Hello, this is John speaking. Who do you want to talk to?
+Hold the line, please.
+Hold the line, please. I will transfer your call to the correct department.
+I'm sorry, but I cannot assist you at this moment.
+Hold the line, please. I need to transfer your call.
+I’ve got a very weak signal.
+I'm in a remote area and I've got a very weak signal.
+I'm sorry, but I cannot hear you clearly. I've got a very weak signal.
+Can you hear me OK?
+Sorry, I can't hear you. Can you speak louder, please?
+Hello, can you hear me OK? I'm having some trouble with my phone.
+Could you please speak up?
+Could you please speak up? I can't hear you clearly.
+I'm sorry, but I can't hear you well. Could you please speak up?
+Hello, sorry to interrupt. Could you please speak up? I can't hear you very well.
+Sorry. I didn’t catch that. Could you say it again, please?
