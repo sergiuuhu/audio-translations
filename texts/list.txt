@@ -1,0 +1,60 @@
+01. Greetings.txt
+02. Saying goodbye.txt
+03. Thank you.txt
+04. Introducing yourself and others.txt
+05. Making apologies.txt
+06. Asking for information.txt
+07. Agreeing and disagreeing.txt
+08. Asking and giving directions.txt
+09. Likes and dislikes.txt
+10. Making friends.txt
+11. Certainty and uncertainty.txt
+12. Checking for understanding.txt
+13. Congratulations and best wishes.txt
+14. Talking about time.txt
+15. Communication difficulties.txt
+16. Giving compliments.txt
+17. Numbers and money.txt
+18. Common expressions.txt
+19. Dining.txt
+20. General questions.txt
+21. Location.txt
+22. Emergency and health.txt
+23. Expressing ability.txt
+24. Shopping.txt
+25. Fear and anxiety.txt
+26. Work.txt
+27. Miscellaneous.txt
+28. Accommodation.txt
+29. Asking and giving permission.txt
+30. Asking for opinions.txt
+31. Asking and giving instructions.txt
+32. Making and answering phone calls.txt
+33. Making an appointment.txt
+34. Making offers.txt
+35. Guessing.txt
+36. Giving opinions.txt
+37. Giving good news.txt
+38. Giving bad news.txt
+39. Expressing preferences.txt
+40. Expressing sympathy.txt
+41. Expressing indifference.txt
+42. Expressing disapointment.txt
+43. Weather.txt
+44. Hopes and desires.txt
+45. Talking about health and illness.txt
+46. Talking about feelings.txt
+47. Blaming and accusing.txt
+48. Admitting mistakes.txt
+49. Making suggestions and giving advice.txt
+50. Making invitations.txt
+51. Making requests.txt
+52. Interrupting people.txt
+53. Making promises.txt
+54. Making complaints.txt
+55. Expressing cause and effect.txt
+56. Expressing shock.txt
+57. Expressing obligation.txt
+58. Expressing regret.txt
+59. Expressing prohibition.txt
+60. Demanding explanations.txt
