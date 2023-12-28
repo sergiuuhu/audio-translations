@@ -1,5 +1,6 @@
 const fs = require("fs");
 const axios = require("axios");
+const path = require("path");
 
 if (!process.argv[2]) {
   console.log("No elevenlabs key specified.");
@@ -39,9 +40,12 @@ const processModules = async () => {
 
       for (const v in voices) {
         const vid = voices[v];
-        const lpath = `${mpath}/${v}/${m}`;
 
-        if (!fs.existsSync(`${lpath}/${l}.mp3`)) {
+        const lpath = path.join(mpath, v, m);
+
+        const checkFileName = Buffer.from(l.trim()).toString("hex");
+
+        if (!fs.existsSync(`${lpath}/${checkFileName}.mp3`)) {
           await generateAudio(vid, l, lpath);
         }
       }
@@ -55,6 +59,8 @@ const processModules = async () => {
 };
 
 const generateAudio = (voice, text, path) => {
+  text = text.trim();
+
   const url = `https://api.elevenlabs.io/v1/text-to-speech/${voice}`;
 
   const headers = {
@@ -79,7 +85,9 @@ const generateAudio = (voice, text, path) => {
   return axios
     .post(url, data, { headers, responseType: "stream" })
     .then((response) => {
-      const writer = fs.createWriteStream(`${path}/${text}.mp3`);
+      const fileName = Buffer.from(text.trim()).toString("hex");
+
+      const writer = fs.createWriteStream(`${path}/${fileName}.mp3`);
 
       response.data.on("data", (chunk) => {
         writer.write(chunk);
