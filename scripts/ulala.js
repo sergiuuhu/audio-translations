@@ -35,7 +35,9 @@ const processModules = async () => {
     const mdata = fs.readFileSync(`${mpath}/${f}`, "utf8");
     const mlines = mdata.split("\n");
 
-    for (const l of mlines) {
+    for (const li in mlines) {
+      const l = mlines[li];
+
       if (!l) continue;
 
       for (const v in voices) {
@@ -43,10 +45,12 @@ const processModules = async () => {
 
         const lpath = path.join(mpath, v, m);
 
-        const checkFileName = Buffer.from(l.trim()).toString("hex");
+        const checkFileName = encodeURIComponent(l.trim());
 
-        if (!fs.existsSync(`${lpath}/${checkFileName}.mp3`)) {
-          await generateAudio(vid, l, lpath);
+        const fileNumber = li.padStart(3, "0");
+
+        if (!fs.existsSync(`${lpath}/${fileNumber}.mp3`)) {
+          await generateAudio(vid, l, lpath, fileNumber);
         }
       }
     }
@@ -58,7 +62,7 @@ const processModules = async () => {
   console.log("Done!");
 };
 
-const generateAudio = (voice, text, path) => {
+const generateAudio = (voice, text, path, fileNumber) => {
   text = text.trim();
 
   const url = `https://api.elevenlabs.io/v1/text-to-speech/${voice}`;
@@ -85,9 +89,7 @@ const generateAudio = (voice, text, path) => {
   return axios
     .post(url, data, { headers, responseType: "stream" })
     .then((response) => {
-      const fileName = Buffer.from(text.trim()).toString("hex");
-
-      const writer = fs.createWriteStream(`${path}/${fileName}.mp3`);
+      const writer = fs.createWriteStream(`${path}/${fileNumber}.mp3`);
 
       response.data.on("data", (chunk) => {
         writer.write(chunk);
