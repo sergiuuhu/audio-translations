@@ -1,7 +1,9 @@
 const fs = require("fs");
 
+const folder = `../modules`
+
 const generateModulesJson = () => {
- const modules = fs.readdirSync("../modules");
+ const modules = fs.readdirSync(folder);
 
  let json = {
   modules: {},
@@ -12,10 +14,10 @@ const generateModulesJson = () => {
  for (const m of modules) {
   json["modules"][m] = {};
 
-  const dirs = fs.readdirSync(`../modules/${m}`);
+  const dirs = fs.readdirSync(`${folder}/${m}`);
 
   for (const d of dirs) {
-   const dPath = `../modules/${m}/${d}`;
+   const dPath = `${folder}/${m}/${d}`;
    const dir = fs.readdirSync(dPath);
 
    let sorted = dir.sort((a, b) => {
