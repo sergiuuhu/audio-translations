@@ -2,40 +2,28 @@ const path = require("path");
 const fs = require("fs");
 const ffmpeg = require("fluent-ffmpeg");
 
-if (!process.argv[2]) {
-  console.log("No path specified.");
-  process.exit(1);
-}
-
-if (!process.argv[3]) {
-  console.log("No file name specified.");
-  process.exit(1);
-}
-
-if (!process.argv[4]) {
-  console.log("No x repeats specified.");
-  process.exit(1);
-}
+const voice = "British (Male)";
+const moduleName = "01. Sounding authentic";
+const modulePath = `../business/${voice}/${moduleName}`;
 
 const files = fs
-  .readdirSync(process.argv[2])
+  .readdirSync(modulePath)
   .filter((file) => file.endsWith(".mp3"));
 
-const mp3Files = files.map((file) => path.join(process.argv[2], file));
+const mp3Files = files
+  .filter((o) => !o.includes("Play"))
+  .map((file) => path.join(modulePath, file));
 
 // Function to merge MP3 files with a second of silence between each
 function mergeMP3FilesWithSilence(audioFiles, output, repeat = 1) {
   const command = ffmpeg();
 
+  const texts = fs.readFileSync(`../texts/business/${moduleName}.txt`, "utf8");
+  const textsArr = texts.split("\n");
+
   // Iterate through each input file
   audioFiles.forEach((af, index) => {
-    const seconds = Math.ceil(files[index].length / 20 + 0.2);
-
-    // command
-    //   .input("anullsrc=r=44100:cl=stereo")
-    //   .inputFormat("lavfi")
-    //   .audioCodec("libmp3lame")
-    //   .duration(seconds);
+    const seconds = Math.ceil(textsArr[index].length / 20 + 0.2);
 
     for (let i = 0; i < repeat; i++) {
       command.input(af);
@@ -46,7 +34,7 @@ function mergeMP3FilesWithSilence(audioFiles, output, repeat = 1) {
     }
   });
 
-  const writeTo = path.join(process.argv[2], output);
+  const writeTo = path.join(modulePath, output);
 
   if (fs.existsSync(writeTo)) {
     fs.unlinkSync(writeTo);
@@ -65,10 +53,4 @@ function mergeMP3FilesWithSilence(audioFiles, output, repeat = 1) {
     });
 }
 
-const repeats = parseInt(process.argv[4]);
-
-mergeMP3FilesWithSilence(
-  mp3Files,
-  `${process.argv[3]}x${repeats}.mp3`,
-  repeats,
-);
+mergeMP3FilesWithSilence(mp3Files, `PlayAll.mp3`, 1);
