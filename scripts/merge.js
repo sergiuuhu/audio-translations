@@ -3,12 +3,17 @@ const fs = require("fs");
 const ffmpeg = require("fluent-ffmpeg");
 
 if (!process.argv[2]) {
-  console.log("No path speficied.");
+  console.log("No path specified.");
   process.exit(1);
 }
 
 if (!process.argv[3]) {
-  console.log("No file name speficied.");
+  console.log("No file name specified.");
+  process.exit(1);
+}
+
+if (!process.argv[4]) {
+  console.log("No x repeats specified.");
   process.exit(1);
 }
 
@@ -18,11 +23,8 @@ const files = fs
 
 const mp3Files = files.map((file) => path.join(process.argv[2], file));
 
-// Output file name
-const outputFileName = `${process.argv[3]}.mp3`;
-
 // Function to merge MP3 files with a second of silence between each
-function mergeMP3FilesWithSilence(audioFiles, output) {
+function mergeMP3FilesWithSilence(audioFiles, output, repeat = 1) {
   const command = ffmpeg();
 
   // Iterate through each input file
@@ -35,16 +37,24 @@ function mergeMP3FilesWithSilence(audioFiles, output) {
     //   .audioCodec("libmp3lame")
     //   .duration(seconds);
 
-    command.input(af);
+    for (let i = 0; i < repeat; i++) {
+      command.input(af);
 
-    for (let l = 0; l < seconds; l++) {
-      command.input("./audio/silence.mp3");
+      for (let l = 0; l < seconds; l++) {
+        command.input("./audio/silence.mp3");
+      }
     }
   });
 
+  const writeTo = path.join(process.argv[2], output);
+
+  if (fs.existsSync(writeTo)) {
+    fs.unlinkSync(writeTo);
+  }
+
   // Merge and output to the specified file
   command
-    .mergeToFile(output, "./audio")
+    .mergeToFile(writeTo)
     .on("end", () => {
       console.log("Merging finished. Output file:", output);
     })
@@ -55,5 +65,10 @@ function mergeMP3FilesWithSilence(audioFiles, output) {
     });
 }
 
-// Call the function to merge MP3 files
-mergeMP3FilesWithSilence(mp3Files, outputFileName);
+const repeats = parseInt(process.argv[4]);
+
+mergeMP3FilesWithSilence(
+  mp3Files,
+  `${process.argv[3]}x${repeats}.mp3`,
+  repeats,
+);

@@ -20,7 +20,7 @@ const voices = {
   "British (Female)": "ThT5KcBeYPX3keUQqHPh",
 };
 
-const folder = "../business"
+const folder = "../modules";
 
 const processModules = async () => {
   const mpath = folder;
@@ -44,8 +44,6 @@ const processModules = async () => {
         const vid = voices[v];
 
         const lpath = path.join(mpath, v, m);
-
-        const checkFileName = encodeURIComponent(l.trim());
 
         const fileNumber = li.padStart(3, "0");
 
@@ -105,6 +103,5 @@ const generateAudio = (voice, text, path, fileNumber) => {
       process.exit(0);
     });
 };
-
 
 processModules();
