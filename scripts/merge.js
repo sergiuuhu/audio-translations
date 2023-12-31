@@ -2,9 +2,9 @@ const path = require("path");
 const fs = require("fs");
 const ffmpeg = require("fluent-ffmpeg");
 
-const voice = "British (Male)";
-const moduleName = "01. Sounding authentic";
-const modulePath = `../business/${voice}/${moduleName}`;
+const voice = "American (Female)";
+const moduleName = "08. Asking and giving directions";
+const modulePath = `../modules/${voice}/${moduleName}`;
 
 const files = fs
   .readdirSync(modulePath)
@@ -15,10 +15,11 @@ const mp3Files = files
   .map((file) => path.join(modulePath, file));
 
 // Function to merge MP3 files with a second of silence between each
-function mergeMP3FilesWithSilence(audioFiles, output, repeat = 1) {
+function mergeMP3FilesWithSilence(audioFiles) {
+  const repeat = 1;
   const command = ffmpeg();
 
-  const texts = fs.readFileSync(`../texts/business/${moduleName}.txt`, "utf8");
+  const texts = fs.readFileSync(`../texts/free/${moduleName}.txt`, "utf8");
   const textsArr = texts.split("\n");
 
   // Iterate through each input file
@@ -34,7 +35,9 @@ function mergeMP3FilesWithSilence(audioFiles, output, repeat = 1) {
     }
   });
 
-  const writeTo = path.join(modulePath, output);
+  const output = `${moduleName}.mp3`;
+
+  const writeTo = path.join(modulePath, "../", output);
 
   if (fs.existsSync(writeTo)) {
     fs.unlinkSync(writeTo);
@@ -53,4 +56,4 @@ function mergeMP3FilesWithSilence(audioFiles, output, repeat = 1) {
     });
 }
 
-mergeMP3FilesWithSilence(mp3Files, `PlayAll.mp3`, 1);
+mergeMP3FilesWithSilence(mp3Files);
